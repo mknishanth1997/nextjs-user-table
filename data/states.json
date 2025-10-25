@@ -1,5 +1,18 @@
 {
-  "Tamil Nadu": ["Chennai", "Coimbatore", "Madurai"],
-  "Kerala": ["Kochi", "Trivandrum"],
-  "Karnataka": ["Bangalore", "Mysore"]
+  "Tamil Nadu": [
+    "Chennai",
+    "Coimbatore",
+    "Madurai",
+    "Salem",
+    "Tiruchirappalli"
+  ],
+  "Kerala": ["Kochi", "Trivandrum", "Kozhikode", "Thrissur", "Kannur"],
+  "Karnataka": ["Bangalore", "Mysore", "Hubli", "Mangalore", "Belgaum"],
+  "Andhra Pradesh": [
+    "Visakhapatnam",
+    "Vijayawada",
+    "Guntur",
+    "Tirupati",
+    "Kurnool"
+  ]
 }
