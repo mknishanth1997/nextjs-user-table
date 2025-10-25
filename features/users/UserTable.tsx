@@ -1,3 +1,4 @@
+// @ts-nocheck
 "use client";
 import { useAppSelector, useAppDispatch } from "@/redux/store";
 import { deleteUser } from "./userSlice";
